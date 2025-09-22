@@ -1,4 +1,4 @@
-package com.example.toyproject.rest;
+package com.example.toyproject.rest.providing;
 
 import com.example.toyproject.domain.data.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
