@@ -2,6 +2,12 @@
 
 This project will be used to learn sprinboot/java and explore best practices/ Ides
 
+# run application
+.\mvnw spring-boot:run or
+1. ./mvnw clean package
+2. java -jar .\target\toyproject-[Version].jar
+
+
 # resources
 
 spring initializer: https://start.spring.io/
